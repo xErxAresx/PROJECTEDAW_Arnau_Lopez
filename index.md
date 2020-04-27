@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Idea projecte final Arnau López
 
-You can use the [editor on GitHub](https://github.com/xErxAresx/PROJECTEDAW_Arnau_Lopez/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Idea:
+La meva idea principal seria realitzar una pagina web a mode de fòrum.
+Els usuaris podran registrarse, alguns apartats seran accesibles de mode anonim, es a dir no fara falta registrarse per algunes pagines pero per poder postejar si, la meva idea es que també hi hagi uns usuaris administradors i uns altres moderadors
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Coses a tenir en compte
 
-### Markdown
+- Realitzare copies de seguretat en xml per preservar les dades
+- Ubuntu server sera segurament el sistema operatiu que utilitzare
+- Utilitzare BIND per dominis i DNS
+- El projecte estaria realitzat en laravel encara que el framework no se si sera el definitiu
+- De base de dades utilitzare MySQL
+- Fare ccomprovacions amb Java
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Llenguatjes de marques, de programacio i frameworks:
 
-```markdown
-Syntax highlighted code block
+- HTML
+- CSS
+- JavaScript
+- Java
+- Laravel (Encara que no se si es definitiu)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xErxAresx/PROJECTEDAW_Arnau_Lopez/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/950/public/media/image/2020/04/saitama-one-punch-man-1924159.jpg?itok=-MqSy6TX)
